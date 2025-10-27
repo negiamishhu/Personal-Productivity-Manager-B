@@ -11,7 +11,7 @@ const app = express();
 // Allowed Origins
 const allowedOrigins = [
   "https://personal-productivity-manager-f.vercel.app",
-  "http://localhost:3000", // optional, for local testing
+  "http://localhost:3000",  
 ];
 
 // Middleware
