@@ -231,36 +231,5 @@ JWT_REFRESH_EXPIRE=7d
 PORT=5000
 NODE_ENV=production
 ```
-
-### Recommended Platforms
-
-- **Railway.app** - Easy MongoDB integration
-- **Render.com** - Free tier available
-- **Heroku** - Classic deployment platform
-- **DigitalOcean** - VPS deployment
-
-### Deploy to Railway
-
-1. Connect your GitHub repository
-2. Add environment variables
-3. Deploy
-
-### CORS Configuration
-
-The backend is configured to accept requests from your frontend domain.
-
-## Testing
-
-Test the API using tools like:
-- Postman
-- Thunder Client (VS Code extension)
-- curl
-- Insomnia
-
-## License
-
-MIT
-
-## Author
-
-FlowTrack Development Team
+ 
+ 
